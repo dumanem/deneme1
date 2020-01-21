@@ -24,7 +24,7 @@ public class Abstract_class {
         data1.add();
         data1.delete();
         data1.get(1);
-        data1.update(2);
+        data1.update(2);//davcvdhcvhdsvchdsvchvd
         
         abstractDatabase data2=new mongoDatabase();
         data2.get(3);
