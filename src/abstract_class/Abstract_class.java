@@ -28,7 +28,7 @@ public class Abstract_class {
         
         abstractDatabase data2=new mongoDatabase();
         data2.get(3);
-        data2.update(4);
+        data2.update(4);//degisiklik yapıyorum
         
        
     }
