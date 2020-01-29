@@ -5,7 +5,8 @@
  */
 package abstract_class;
 
-/**
+/** I CLONED THIS PROJECT FROM DENEME1 RESPIRATORY AND I WROTE THIS COMMENT 
+ * TO COMPARE!!!!!!!!
  *
  * @author emreduman
  */
